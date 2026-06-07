@@ -57,20 +57,3 @@
 
 
 \---
-
-
-
-\## ⚙️ Requisitos e Instalación
-
-
-
-Para ejecutar cualquiera de estos scripts, solo necesitas tener instalado \*\*Python 3.x\*\* en tu sistema operativo.
-
-
-
-1\. Clona este repositorio en tu máquina local:
-
-&#x20;  ```bash
-
-&#x20;  git clone git@github.com:TU\_USUARIO/TU\_REPOSITORIO.git
-
